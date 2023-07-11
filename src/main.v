@@ -42,7 +42,7 @@ fn main() {
 		cheat: true,
 		// default user input to 1000 for the bot mode
 		user_input: 1000,
-		wallhack: true,
+		wallhack: false,
 	}
 
 	// play a game
